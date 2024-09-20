@@ -1,0 +1,6 @@
+LESSON OVERVIEW
+
+In this lesson, you will be introduced to the concept of version control, a fundamental practice in software development that allows teams to manage changes to their codebase over time. 
+We will focus on Git, one of the most widely used distributed version control systems. 
+You’ll learn about the purpose and benefits of version control, how Git tracks changes, and the basic concepts that underpin version control systems.
+
