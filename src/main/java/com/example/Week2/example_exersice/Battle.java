@@ -2,7 +2,7 @@ package com.example.Week2.example_exersice;
 
 public class Battle {
 
-    Battle(Character first, Character second) {
+    public Battle(Character first, Character second) {
         System.out.println("--   " + first.getName() + " vs " + second.getName() + "   --\n");
         doBattle(first, second);
     }
